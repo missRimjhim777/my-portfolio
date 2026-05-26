@@ -1,22 +1,30 @@
 👋 Hey, I’m Rimjhim
 
-💻 Working professional passionate about technology, innovation, and building impactful digital solutions.
+💼 A passionate tech professional driven by innovation, creativity, and continuous learning. I enjoy building impactful digital solutions and transforming ideas into real-world applications.
 
-🚀 Skilled in:
+🚀 Technical Skills
 
-🔹Python
-🔹SQL & MongoDB
-🔹PHP
-🔹Web Development
-🔹Machine Learning
-🔹API Integration
-🔹Database Management
-🔹Git & GitHub
+🔹 Python
+🔹 SQL & MongoDB
+🔹 PHP
+🔹 Web Development
+🔹 Machine Learning
+🔹 API Integration
+🔹 Database Management
+🔹 Git & GitHub
 
-🌱 Currently exploring advanced AI/ML concepts, modern web technologies, and real-world project development.
+🌱 Currently Exploring
 
-✨ I enjoy turning ideas into practical applications and continuously learning new technologies to grow as a developer.
+Advanced AI/ML concepts, modern web technologies, scalable applications, and real-world software development practices.
 
-🤝 Open to collaborating on exciting projects related to AI, web development, and software engineering.
+✨ What I Love Doing
 
-📫 Always curious, always building, and always learning.
+I’m passionate about developing efficient, user-focused solutions while constantly expanding my knowledge in emerging technologies and software engineering.
+
+🤝 Open to Collaborate On
+AI & Machine Learning Projects
+Web Development Projects
+Backend Development
+Innovative Software Solutions
+
+📫 Always learning, always creating, and always growing as a developer.
