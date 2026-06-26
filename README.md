@@ -1,3 +1,4 @@
+<img width="1344" height="768" alt="pixel-developer-girl-stockcake" src="https://github.com/user-attachments/assets/98775fc3-c9dc-4072-8934-3965c0d99190" />
 👋 Hey, I’m Rimjhim
 
 💼 A passionate tech professional driven by innovation, creativity, and continuous learning. I enjoy building impactful digital solutions and transforming ideas into real-world applications.
